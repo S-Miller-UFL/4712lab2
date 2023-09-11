@@ -1,0 +1,11 @@
+Fitter Status : Successful - Mon Sep 11 11:41:45 2023
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : lab2_p1
+Top-level Entity Name : mux4to1
+Family : MAX II
+Device : EPM240F100C4
+Timing Models : Final
+Total logic elements : 3 / 240 ( 1 % )
+Total pins : 8 / 80 ( 10 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
