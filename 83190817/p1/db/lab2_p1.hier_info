@@ -1,11 +1,21 @@
 |mux4to1
-d[0] => Mux0.IN3
-d[1] => Mux0.IN2
-d[2] => Mux0.IN1
-d[3] => Mux0.IN0
-s[0] => Mux0.IN5
-s[1] => Mux0.IN4
+d[0] => y.DATAB
+d[1] => y.DATAB
+d[2] => y.DATAB
+d[3] => y.DATAB
+s[0] => Equal0.IN1
+s[0] => Equal1.IN0
+s[0] => Equal2.IN1
+s[0] => Equal3.IN1
+s[1] => Equal0.IN0
+s[1] => Equal1.IN1
+s[1] => Equal2.IN0
+s[1] => Equal3.IN0
 en_n => y.IN1
-y_n << y.DB_MAX_OUTPUT_PORT_TYPE
+en_n => y.IN1
+en_n => y.IN1
+en_n => y.IN1
+en_n => y.IN1
+y_n <= y.DB_MAX_OUTPUT_PORT_TYPE
 
 

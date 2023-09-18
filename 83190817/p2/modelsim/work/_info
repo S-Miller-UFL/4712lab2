@@ -1,0 +1,157 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p1/modelsim
+Edecoder
+Z0 w1694642082
+Z1 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z2 DPx9 cycloneiv 19 cycloneiv_atom_pack 0 22 ]lnLY_M[kb3fWjbKaDc;_1
+Z3 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z6 DPx9 cycloneiv 20 cycloneiv_components 0 22 J>QEYeEXjZb^Cnb3?e1D40
+!i122 24
+Z7 dC:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p2/modelsim
+Z8 8C:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p2/modelsim/lab2_p2.vho
+Z9 FC:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p2/modelsim/lab2_p2.vho
+l0
+L78 1
+VG=mQgGd9^;J_AcD`1[5dE1
+!s100 U_<JhfdjETW2A9i>_QSzV1
+Z10 OV;C;2020.1;71
+32
+Z11 !s110 1694798172
+!i10b 1
+Z12 !s108 1694798172.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p2/modelsim/lab2_p2.vho|
+Z14 !s107 C:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p2/modelsim/lab2_p2.vho|
+!i113 1
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+Z17 DEx4 work 7 decoder 0 22 G=mQgGd9^;J_AcD`1[5dE1
+!i122 24
+l142
+L99 323
+VFmf^BDgn3HQYbcFVmZU^U0
+!s100 RHMLzC1X<RUoFO61UlEZ^3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Edecoderwithassert_tb
+Z18 w1694798170
+Z19 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R4
+R5
+!i122 25
+R7
+Z20 8C:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p2/modelsim/DecoderWithAssert_tb.vhd
+Z21 FC:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p2/modelsim/DecoderWithAssert_tb.vhd
+l0
+L7 1
+VPa8Z8VEL2OG>BHf5TTIKB3
+!s100 Pn<PjNgE9K>`MT;kHL_JC0
+R10
+32
+R11
+!i10b 1
+R12
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p2/modelsim/DecoderWithAssert_tb.vhd|
+Z23 !s107 C:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p2/modelsim/DecoderWithAssert_tb.vhd|
+!i113 1
+R15
+R16
+Abehavior
+R1
+R2
+R3
+R6
+R17
+R19
+R4
+R5
+Z24 DEx4 work 20 decoderwithassert_tb 0 22 Pa8Z8VEL2OG>BHf5TTIKB3
+!i122 25
+l16
+Z25 L11 104
+VD>0LH6R`h?`T3[`M4WNf:0
+!s100 Z`P3]NXCL4F8]hWKnB47l3
+R10
+32
+R11
+!i10b 1
+R12
+R22
+R23
+!i113 1
+R15
+R16
+Ehard_block
+R0
+R1
+R2
+R3
+R4
+R5
+R6
+!i122 24
+R7
+R8
+R9
+l0
+L35 1
+VA@mL2FA]aXV3INlRb<>JX2
+!s100 Q?IbEnM>aW3cc=hi`GCc71
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 10 hard_block 0 22 A@mL2FA]aXV3INlRb<>JX2
+!i122 24
+l65
+L51 20
+VS7OM9gUdhgl=YK;Tn9FDz2
+!s100 O>:lWQfHCcIaXgQ<=Tgn10
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16

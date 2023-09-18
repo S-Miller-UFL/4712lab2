@@ -1,0 +1,157 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+Ehard_block
+Z0 w1694640309
+Z1 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z2 DPx9 cycloneiv 19 cycloneiv_atom_pack 0 22 ]lnLY_M[kb3fWjbKaDc;_1
+Z3 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z6 DPx9 cycloneiv 20 cycloneiv_components 0 22 J>QEYeEXjZb^Cnb3?e1D40
+!i122 82
+Z7 dC:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p1/modelsim
+Z8 8C:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p1/modelsim/lab2_p1.vho
+Z9 FC:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p1/modelsim/lab2_p1.vho
+l0
+L35 1
+VA@mL2FA]aXV3INlRb<>JX2
+!s100 Q?IbEnM>aW3cc=hi`GCc71
+Z10 OV;C;2020.1;71
+32
+Z11 !s110 1694640439
+!i10b 1
+Z12 !s108 1694640439.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p1/modelsim/lab2_p1.vho|
+Z14 !s107 C:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p1/modelsim/lab2_p1.vho|
+!i113 1
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+Z17 DEx4 work 10 hard_block 0 22 A@mL2FA]aXV3INlRb<>JX2
+!i122 82
+l65
+Z18 L51 20
+Z19 VS7OM9gUdhgl=YK;Tn9FDz2
+Z20 !s100 O>:lWQfHCcIaXgQ<=Tgn10
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Emux4to1
+R0
+R1
+R2
+R3
+R4
+R5
+R6
+!i122 82
+R7
+R8
+R9
+l0
+L78 1
+Vde181acW2oXe=YJiZEc??1
+!s100 iSWJ4JD2RkT;;DdncnN1a2
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+Z21 DEx4 work 7 mux4to1 0 22 de181acW2oXe=YJiZEc??1
+!i122 82
+l132
+Z22 L98 190
+VmQc2nLXCe<PFDW6`gC2X00
+!s100 ]a`d]Qf_G<fi@5=fG^8cC2
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Emux4to1withassert_tb
+Z23 w1694640127
+Z24 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R4
+R5
+!i122 81
+R7
+Z25 8C:\Users\steve\git_repos\school\EEL4712\lab2\83190817\p1\modelsim\mux4to1WithAssert_tb.vhd
+Z26 FC:\Users\steve\git_repos\school\EEL4712\lab2\83190817\p1\modelsim\mux4to1WithAssert_tb.vhd
+l0
+L8 1
+VmjBiPzK;bhGBn;Y;gB<5o0
+!s100 OM=6B6KBojYN;e?@hA@o[1
+R10
+32
+R11
+!i10b 1
+R12
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\steve\git_repos\school\EEL4712\lab2\83190817\p1\modelsim\mux4to1WithAssert_tb.vhd|
+Z28 !s107 C:\Users\steve\git_repos\school\EEL4712\lab2\83190817\p1\modelsim\mux4to1WithAssert_tb.vhd|
+!i113 1
+R15
+R16
+Abehavior
+R1
+R2
+R3
+R6
+R21
+R24
+R4
+R5
+DEx4 work 20 mux4to1withassert_tb 0 22 mjBiPzK;bhGBn;Y;gB<5o0
+!i122 81
+l17
+L12 78
+Vf9ehcmDZeI7FJf=DJIiCH2
+!s100 <U77`UAH`1^MB9;NdefLb0
+R10
+32
+R11
+!i10b 1
+R12
+R27
+R28
+!i113 1
+R15
+R16

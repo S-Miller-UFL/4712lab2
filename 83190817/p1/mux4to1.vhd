@@ -19,9 +19,12 @@ architecture arch of mux4to1 is
 	signal mux : std_logic;
 	signal en: std_logic;
 begin
-	with s select
-		mux <= d(0) when "00", d(1) when "01", d(2) when "10", d(3) when "11";
-		en <= not(en_n);
-		y <= mux and en;
-		y_n <= not(y);
+	en <=not(en_n);
+
+			y <= d(0) when (s="00" AND en = '1') else
+				  d(1) when (s="01" and en = '1') else
+				  d(2) when (s="10" and en ='1') else
+				  d(3) when (s="11" and en ='1') else
+				   '0' when en ='0';
+	y_n <= not(y);
 end arch;

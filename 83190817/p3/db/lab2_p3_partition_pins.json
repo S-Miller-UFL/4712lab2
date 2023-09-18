@@ -1,0 +1,113 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "sum[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sum[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sum[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sum[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sum[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sum[5]",
+					"strict" : false
+				},
+				{
+					"name" : "sum[6]",
+					"strict" : false
+				},
+				{
+					"name" : "sum[7]",
+					"strict" : false
+				},
+				{
+					"name" : "carry_out",
+					"strict" : false
+				},
+				{
+					"name" : "input1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "input2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "carry_in",
+					"strict" : false
+				},
+				{
+					"name" : "input2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "input1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "input1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "input2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "input1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "input2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "input1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "input2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "input1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "input2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "input1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "input2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "input1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "input2[7]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

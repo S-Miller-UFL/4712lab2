@@ -1,11 +1,20 @@
-Fitter Status : Successful - Mon Sep 11 11:41:45 2023
+Fitter Status : Successful - Wed Sep 13 17:25:02 2023
 Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
 Revision Name : lab2_p1
 Top-level Entity Name : mux4to1
-Family : MAX II
-Device : EPM240F100C4
+Family : Cyclone IV GX
+Device : EP4CGX15BF14A7
 Timing Models : Final
-Total logic elements : 3 / 240 ( 1 % )
-Total pins : 8 / 80 ( 10 % )
+Total logic elements : 3 / 14,400 ( < 1 % )
+    Total combinational functions : 3 / 14,400 ( < 1 % )
+    Dedicated logic registers : 0 / 14,400 ( 0 % )
+Total registers : 0
+Total pins : 8 / 81 ( 10 % )
 Total virtual pins : 0
-UFM blocks : 0 / 1 ( 0 % )
+Total memory bits : 0 / 552,960 ( 0 % )
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0 / 2 ( 0 % )
+Total GXB Receiver Channel PMA : 0 / 2 ( 0 % )
+Total GXB Transmitter Channel PCS : 0 / 2 ( 0 % )
+Total GXB Transmitter Channel PMA : 0 / 2 ( 0 % )
+Total PLLs : 0 / 3 ( 0 % )

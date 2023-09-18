@@ -1,0 +1,157 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p2/modelsim
+Eadder_tb
+Z0 w1694802929
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 9
+Z4 dC:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p3/modelsim
+Z5 8C:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p3/modelsim/adder_tb.vhd
+Z6 FC:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p3/modelsim/adder_tb.vhd
+l0
+L8 1
+VlNzV;BRTo_:<@RIU:K?>L1
+!s100 PDNPhQNIQ4JdmiNVWd5YI3
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1694802931
+!i10b 1
+Z9 !s108 1694802931.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p3/modelsim/adder_tb.vhd|
+Z11 !s107 C:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p3/modelsim/adder_tb.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Atb
+Z14 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z15 DPx9 cycloneiv 19 cycloneiv_atom_pack 0 22 ]lnLY_M[kb3fWjbKaDc;_1
+Z16 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z17 DPx9 cycloneiv 20 cycloneiv_components 0 22 J>QEYeEXjZb^Cnb3?e1D40
+Z18 DEx4 work 13 eightbitadder 0 22 9jzO=]`?S7mfBQFQJiGdY0
+R1
+R2
+R3
+Z19 DEx4 work 8 adder_tb 0 22 lNzV;BRTo_:<@RIU:K?>L1
+!i122 9
+l16
+Z20 L11 67
+VmQ@NBHO=LD[`1cYAH<Ihz1
+!s100 zXYOSzCQm;;BJI?eS[W0T0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eeightbitadder
+Z21 w1694801520
+R14
+R15
+R16
+R2
+R3
+R17
+!i122 8
+R4
+Z22 8C:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p3/modelsim/lab2_p3.vho
+Z23 FC:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p3/modelsim/lab2_p3.vho
+l0
+L78 1
+V9jzO=]`?S7mfBQFQJiGdY0
+!s100 Kbl<N`3fWefjS0CKL?e>Y3
+R7
+32
+R8
+!i10b 1
+R9
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p3/modelsim/lab2_p3.vho|
+Z25 !s107 C:/Users/steve/git_repos/school/EEL4712/lab2/83190817/p3/modelsim/lab2_p3.vho|
+!i113 1
+R12
+R13
+Astructure
+R14
+R15
+R16
+R2
+R3
+R17
+R18
+!i122 8
+l182
+L117 650
+VJNYe@C>7_8il^UW;hg<=b3
+!s100 lU4CzFaKNnh:4P7ZZGI1H1
+R7
+32
+R8
+!i10b 1
+R9
+R24
+R25
+!i113 1
+R12
+R13
+Ehard_block
+R21
+R14
+R15
+R16
+R2
+R3
+R17
+!i122 8
+R4
+R22
+R23
+l0
+L35 1
+VA@mL2FA]aXV3INlRb<>JX2
+!s100 Q?IbEnM>aW3cc=hi`GCc71
+R7
+32
+R8
+!i10b 1
+R9
+R24
+R25
+!i113 1
+R12
+R13
+Astructure
+R14
+R15
+R16
+R2
+R3
+R17
+DEx4 work 10 hard_block 0 22 A@mL2FA]aXV3INlRb<>JX2
+!i122 8
+l65
+L51 20
+VS7OM9gUdhgl=YK;Tn9FDz2
+!s100 O>:lWQfHCcIaXgQ<=Tgn10
+R7
+32
+R8
+!i10b 1
+R9
+R24
+R25
+!i113 1
+R12
+R13

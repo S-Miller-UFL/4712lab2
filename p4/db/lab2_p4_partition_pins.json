@@ -1,0 +1,137 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "decoder_outputs1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "decoder_outputs1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "decoder_outputs1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "decoder_outputs1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "decoder_outputs1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "decoder_outputs1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "decoder_outputs1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "decoder_outputs2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "decoder_outputs2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "decoder_outputs2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "decoder_outputs2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "decoder_outputs2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "decoder_outputs2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "decoder_outputs2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "carry_out",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "carry_in",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "adder_inputs2[7]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,40 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity Top_Level is
+port
+(
+	adder_inputs1: in std_logic_vector (7 downto 0);
+	adder_inputs2: in std_logic_vector (7 downto 0);
+	decoder_outputs1: out std_logic_vector(7 downto 0);
+	decoder_outputs2: out std_logic_vector(7 downto 0);
+	carry_in : in std_logic;
+	carry_out : out std_logic
+);
+end Top_Level;
+
+architecture arch of Top_Level is
+
+signal carry1: std_logic;
+
+component adder 
+port
+(
+	comp_adder_input1: in std_logic_vector (7 downto 0);
+	comp_adder_input2: in std_logic_vector (7 downto 0);
+	comp_adder_carry_in: in std_logic;
+	comp_adder_carry_out : out std_logic;
+	comp_adder_sum1 : out std_logic_vector(7 downto 0);
+	comp_adder_sum2 : out std_logic_vector(7 downto 0)
+);
+end component;
+component decoder
+port
+(
+	comp_decoder_inputs: in std_logic_vector (3 downto 0);
+	comp_decoder_outputs: out std_logic_vector(7 downto 0)
+);
+end component;
+begin
+
+end arch;
